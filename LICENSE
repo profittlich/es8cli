@@ -1,6 +1,6 @@
-MIT License
+es8cli is licensed under the MIT License
 
-Copyright (c) 2021 profittlich
+Copyright (c) 2021 Martin Profittlich
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -19,3 +19,7 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+
+es8cli contains rtmidi, which is licensed under its own license.
+See rtmidi-4.0.0/README.md for more information.
