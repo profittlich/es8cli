@@ -1,6 +1,6 @@
 # ES8cli
 
-Configure your Boss ES-8 loop switcher from the command line. Read, change and write patches and configure global settings.
+Configure your Boss ES-8 loop switcher from the command line. Read, change and write patches.
 
 This is not a replacement for the official ES-8 Edit software from Boss, which provides a graphical user interface for more intuitive editing. ES8cli has advantages for bulk editing and can be used in scripts.
 
